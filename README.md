@@ -1,5 +1,5 @@
 # fluffy-train
-Generate a new VM inside GitPod using this blank template.
+Generate a new VM inside GitPod using this blank template, useful if you want to create an status page like what GitPod does.
 
 ## How to use this template?
 Open this repository in GitPod using the button below.
@@ -14,4 +14,4 @@ git remote set origin <new-git-url>
 Done? Enjoy editing stuff on your side.
 
 ## Who created this blank template?
-[Made by Andrei Jiroh, one of our friends at Recap Time department](https://github.com/AndreiJirohHaliliDev2006
+[Andrei Jiroh.](https://github.com/AndreiJirohHaliliDev2006)
