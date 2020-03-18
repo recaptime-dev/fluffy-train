@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "nodejs-starter-gitpod",
+    "description": "Unofficial template made by your friends at the Pins team.",
+    "engine": {
+        "node": "12.x",
+        "npm": "6.x"
+    }
+}

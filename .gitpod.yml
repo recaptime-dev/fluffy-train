@@ -1,0 +1,9 @@
+image:
+  file: .gitpod.Dockerfile 
+tasks:
+  - init: npm install -fg node npm && npm install
+    command: echo "Replace me with something that should run on every start to get you started."
+vscode:
+  extensions:
+    - mads-hartmann.bash-ide-vscode@1.4.0:/qx+rdXE/fGTGWhelNf3aQ==
+    - timonwong.shellcheck@0.9.0:hsU/Rd39aqPYowTqL+DbXg==
